@@ -1,0 +1,6 @@
+"Review","Sentiment","Confidence"
+"I love this product! It's amazing.","Positive","99.97%"
+"This is the worst experience I've ever had.","Negative","99.95%"
+"The food was okay, but nothing special.","Negative","98.99%"
+"I highly recommend this place to everyone!","Positive","99.98%"
+"I wouldn't buy this again.","Negative","99.90%"
